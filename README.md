@@ -1,3 +1,3 @@
-# get_course
-## get_notes
-## soulution
+# git_course
+## notes
+
